@@ -1,1 +1,6 @@
-
+*.safetensors
+*.pt
+*.txt
+/module_7/circles/_annt
+/module_7/circles/_imgs
+/module_7/SSD/BCCD_Dataset
